@@ -1,0 +1,5 @@
+Collecting numpy
+  Downloading numpy-2.0.2-cp39-cp39-win_amd64.whl (15.9 MB)
+     -------------------------------------- 15.9/15.9 MB 798.1 kB/s eta 0:00:00
+Installing collected packages: numpy
+Successfully installed numpy-2.0.2
